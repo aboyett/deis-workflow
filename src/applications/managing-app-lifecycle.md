@@ -21,7 +21,7 @@ v1      6 hours 2 minutes ago             gabrtv deployed deis/helloworld
 
 ## Rollback a Release
 
-Deis Workflow also supports rolling back go previous releases. If buggy code or an errant configuration change is pushed
+Deis Workflow also supports rolling back to previous releases. If buggy code or an errant configuration change is pushed
 to your application, you may rollback to a previously known, good release.
 
 !!! note
